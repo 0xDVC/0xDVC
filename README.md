@@ -10,3 +10,6 @@
 ###    GITHUB STATS
 [![GitHub Streak](https://streak-stats.demolab.com?user=dvc-77&theme=gruvbox&mode=weekly)](https://git.io/streak-stats)
 
+
+###  CONTRIBUTION STATS
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=dvc-77)
