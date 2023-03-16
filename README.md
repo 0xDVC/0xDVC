@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Neil Ohene @dvc-77
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Backend Engineering with Java. Other stacks I'm working with would be Spring Boot framework & JavaScript
-- 💞️ I’m looking to collaborate on any cool open-source project focused on real-world problems
-- 📫 Reach me via mail:
+- 👋 Hi, I’m Neil @dvc-77
+- 👀 I’m interested in Software Engineering & ML 
+- 🌱 I’m an avid learner. I enjoy learning from people too!
+- 📫 You can reach me via mail:
      neilohene@gmail.com
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
