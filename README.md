@@ -1,6 +1,4 @@
 
-# Hello there 👋
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 - 👋 I’m Neil @dvc-77
