@@ -8,3 +8,5 @@
      neilohene@gmail.com
      
  _**PS**: Favorite thing right now is writing_ **0xCAFEBABE**🧑🏾‍💻
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=dvc-77)](https://git.io/streak-stats)
