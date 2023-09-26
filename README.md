@@ -10,3 +10,5 @@
  _**PS**: Favorite thing right now is writing_ **0xCAFEBABE**🧑🏾‍💻
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=dvc-77)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=dvc-77&show_icons=true&count_private=true" alt="dvc-77" /> 
+
