@@ -3,7 +3,7 @@
 
 - 👋 I’m Neil @dvc-77
 - 👀 I’m interested in Software Engineering
-- 🌱 Currently learning, Azure cloud services
+- 🌱 Currently learning something new
 - 📫 You can reach me via mail:
      **neilohene@gmail.com**
      
