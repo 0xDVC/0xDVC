@@ -5,11 +5,11 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 Currently learning something new
 - 📫 You can reach me via mail:
-     **neilohene@gmail.com**
+    - **neilohene@gmail.com**
+    - ![onlydvc](https://discordapp.com/users/onlydvc) on Discord
      
  _**PS**: Favorite thing right now is writing_ **0xCAFEBABE**🧑🏾‍💻
 
- [![GitHub Streak]
 
 <a href="http://www.github.com/dvc-77"><img src="https://github-readme-stats.vercel.app/api?username=dvc-77&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dvc's GitHub stats" /></a>
 
