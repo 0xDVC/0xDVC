@@ -7,7 +7,8 @@
 - 📫 You can reach me via mail:
     - **neilohene@gmail.com**
     - ![onlydvc](https://discordapp.com/users/onlydvc) on Discord
-     
+[](https://linkedin.com)
+[](https://x.com)    
  _**PS**: Favorite thing right now is writing_ **0xCAFEBABE**🧑🏾‍💻
 
 
