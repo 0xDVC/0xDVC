@@ -1,14 +1,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-- 👋 I’m Neil @0xDVC
 - 👀 I’m interested in Software Engineering
 - 🌱 Currently learning something new
 - 📫 You can reach me via mail:
     - **neilohene@gmail.com**
     - ![onlydvc](https://discordapp.com/users/onlydvc) on Discord
-[](https://linkedin.com)
-[](https://x.com)    
  _**PS**: Favorite thing right now is writing_ **0xCAFEBABE**🧑🏾‍💻
 
 
